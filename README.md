@@ -19,6 +19,8 @@ Here's a snapshot of the technologies and areas I work with:
   <img src="https://img.shields.io/badge/-Ethical%20Hacking-brightgreen?style=flat-square" alt="Ethical Hacking"/>
   <img src="https://img.shields.io/badge/-Vulnerability%20Assessment-orange?style=flat-square" alt="Vulnerability Assessment"/>
   <img src="https://img.shields.io/badge/OWASP-Top%2010-blue?style=flat-square" alt="OWASP Top 10"/>
+  <img src="https://img.shields.io/badge/Malware-development" alt="Malware Development"/>
+
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C%20Programming-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C Programming"/>
