@@ -31,7 +31,7 @@ Here's a snapshot of the technologies and areas I work with:
 
 ---
 
-## 📊 My GitHub Stats
+## My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Officerwasu&show_icons=true&theme=radical&rank_icon=github" alt="Vedant's GitHub Stats"/>
@@ -41,7 +41,7 @@ Here's a snapshot of the technologies and areas I work with:
 
 ---
 
-## 📫 Let's Get In Touch
+## Let's Get In Touch
 
 Other platforms:
 
