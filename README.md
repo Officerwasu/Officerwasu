@@ -15,7 +15,7 @@ I'm a passionate **Cybersecurity Student** based in Delhi, India 🇮🇳. I'm d
 Here's a snapshot of the technologies and areas I work with:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Malware-development" alt="Malware Development"/>
+  <img src="https://img.shields.io/badge/Malware_Dev-red" alt="Malware Development"/>
   <img src="https://img.shields.io/badge/OWASP-Top%2010-blue?style=flat-square" alt="OWASP Top 10"/>
   
 
@@ -47,6 +47,7 @@ Other platforms:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/officerwasu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.youtube.com/@vaziiking" target="_blank"><img src="https://img.shields.io/badge/Youtube-red" alt ="Youtube"></a>
 </p>
 
 ---
