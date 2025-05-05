@@ -1,7 +1,7 @@
 # Hi there, I'm Vedant Adhikari 👋
 
 <p align="center">
-  <img src="Ss.png" alt="Banner" width="80%"/>
+  <img src="image.jpg" alt="Banner" width="80%"/>
 </p>
 
 I'm a passionate **Cybersecurity Student** based in Delhi, India 🇮🇳. I'm driven by the challenge of securing digital environments and constantly exploring the evolving landscape of cyber threats and defenses.
