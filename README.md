@@ -1,4 +1,4 @@
-# Hi there, I'm Vedant Adhikari 👋
+# Hi there, I'm Vedant Adhikari
 
 <p align="center">
   <img src="https://github.com/Officerwasu/Officerwasu/blob/main/Image.jpg" alt="Banner" width="80%"/>
