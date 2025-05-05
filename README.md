@@ -1,15 +1,14 @@
 # Hi there, I'm Vedant Adhikari 👋
 
 <p align="center">
-  <img src="[Optional: Link to your cool banner image/GIF here]" alt="Banner" width="80%"/>
+  <img src="Ss.png" alt="Banner" width="80%"/>
 </p>
 
-I'm a passionate **Cybersecurity Student** based in Ghaziabad, Uttar Pradesh, India 🇮🇳. I'm driven by the challenge of securing digital environments and constantly exploring the evolving landscape of cyber threats and defenses.
+I'm a passionate **Cybersecurity Student** based in Delhi, India 🇮🇳. I'm driven by the challenge of securing digital environments and constantly exploring the evolving landscape of cyber threats and defenses.
 
 * 🌱 I’m currently deepening my knowledge in advanced penetration testing techniques and cloud security.
 * 🔭 I’m looking for opportunities to apply my skills in real-world scenarios, like internships or collaborative projects.
 * 💬 Ask me about Ethical Hacking, Network Security, or Linux!
-* 📫 How to reach me: [your-professional-email@example.com] ---
 
 ## 🔧 Technical Skills & Tools
 
@@ -42,19 +41,16 @@ Here's a snapshot of the technologies and areas I work with:
 
 ---
 
-## 📫 Get In Touch
+## 📫 Let's Get In Touch
 
-Connect with me on other platforms:
+Other platforms:
 
 <p align="left">
-<a href="[Your LinkedIn URL]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/officerwasu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
 
-## ✨ Fun Fact
-
-[Insert a fun fact about yourself, a favorite cybersecurity quote, or something interesting!]
 <!--
 **Officerwasu/Officerwasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
