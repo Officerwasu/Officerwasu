@@ -10,7 +10,7 @@ I'm a passionate **Cybersecurity Student** based in Delhi, India 🇮🇳. I'm d
 * 🔭 I’m looking for opportunities to apply my skills in real-world scenarios, like internships or collaborative projects.
 * 💬 Ask me about Ethical Hacking, Network Security, or Linux!
 
-## 🔧 Technical Skills & Tools
+## Technical Skills & Tools
 
 Here's a snapshot of the technologies and areas I work with:
 
