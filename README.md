@@ -4,15 +4,15 @@
   <img src="https://github.com/Officerwasu/Officerwasu/blob/main/Image.jpg" alt="Banner" width="80%"/>
 </p>
 
-I'm a passionate **Cybersecurity Student** based in Delhi, India 🇮🇳. I'm driven by the challenge of securing digital environments and constantly exploring the evolving landscape of cyber threats and defenses.
+I'm a passionate **Penetration Tester** based in Delhi, India.
 
-* 🌱 I’m currently deepening my knowledge in advanced penetration testing techniques and cloud security.
-* 🔭 I’m looking for opportunities to apply my skills in real-world scenarios, like internships or collaborative projects.
-* 💬 Ask me about Ethical Hacking, Network Security, or Linux!
+* I’m currently getting a better grip at advanced penetration testing techniques and cloud security.
+* I’m looking for opportunities to apply my skills in real-world scenarios, like internships or collaborative projects.
+* I really love Malware development and redteaming.
 
 ## Technical Skills & Tools
 
-Here's a snapshot of the technologies and areas I work with:
+Here's are the technologies and areas I work with:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Malware_Dev-red" alt="Malware Development"/>
