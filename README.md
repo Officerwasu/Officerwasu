@@ -10,9 +10,9 @@ I'm a passionate **Penetration Tester** based in Delhi, India.
 * I’m looking for opportunities to apply my skills in real-world scenarios, like internships or collaborative projects.
 * I really love Malware development and redteaming.
 
-## Technical Skills & Tools
+## Technical Skills 
 
-Here's are the technologies and areas I work with:
+Here's the technologies I work with:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Malware_Dev-red" alt="Malware Development"/>
