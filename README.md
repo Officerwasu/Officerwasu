@@ -42,6 +42,12 @@ Here's the technologies I work with:
 
 ## My Badges
 
+<p align="center">
+  <img src="https://img.shields.io/badge/CEH(Master)-blue?style=for-the-badge&logo=eccouncil&logoColor=white" alt="CEH Master Badge"/>
+  <img src="https://img.shields.io/badge/Google_Cybersecurity-blue?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cybersecurity Badge"/>
+  <img src="https://img.shields.io/badge/ISC2_Candidate-blue?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2 Candidate Badge"/>
+</p>
+
 ---
 
 ## Let's Get In Touch
