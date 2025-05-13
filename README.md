@@ -43,9 +43,9 @@ Here's the technologies I work with:
 ## My Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CEH(Master)-blue?style=for-the-badge&logo=eccouncil&logoColor=white" alt="CEH Master Badge"/>
-  <img src="https://img.shields.io/badge/Google_Cybersecurity-blue?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cybersecurity Badge"/>
-  <img src="https://img.shields.io/badge/ISC2_Candidate-blue?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2 Candidate Badge"/>
+  <img src="https://github.com/Officerwasu/Officerwasu/blob/main/Images/Ceh.png" alt="CEH Master Badge" width="150"/>
+  <img src="https://github.com/Officerwasu/Officerwasu/blob/main/Images/googlecybersec.png" alt="Google Cybersecurity Badge" width="150"/>
+  <img src="https://github.com/Officerwasu/Officerwasu/blob/main/Images/i.png" alt="ISC2 Candidate Badge" width="150"/>
 </p>
 
 ---
