@@ -29,7 +29,7 @@ Here's the technologies I work with:
   <img src="https://img.shields.io/badge/Networking-grey?style=flat-square" alt="Computer Networking"/> <img src="https://img.shields.io/badge/VMware-6C757D?style=flat-square&logo=vmware&logoColor=white" alt="VMware"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/CEH(Master)-blue?style=for-the-badge&logo=eccouncil&logoColor=white" alt="CEH Master Badge"/>
   <img src="https://img.shields.io/badge/Google_Cybersecurity-blue?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cybersecurity Badge"/>
   <img src="https://img.shields.io/badge/ISC2_Candidate-blue?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2 Candidate Badge"/>
