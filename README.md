@@ -39,6 +39,7 @@ Here's the technologies I work with:
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Officerwasu&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+## My badges
 
 ---
 
