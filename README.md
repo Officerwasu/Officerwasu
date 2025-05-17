@@ -17,6 +17,8 @@ Here's the technologies I work with:
 <p align="left">
   <img src="https://img.shields.io/badge/Malware_Dev-red" alt="Malware Development"/>
   <img src="https://img.shields.io/badge/OWASP-Top%2010-blue?style=flat-square" alt="OWASP Top 10"/>
+  <img src="https://img.shields.io/badge/Penetration%20testing-red" alt="Penetration Testing"/>
+  
   
 
 
