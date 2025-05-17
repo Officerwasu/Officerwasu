@@ -48,11 +48,6 @@ Here's the technologies I work with:
   <img src="https://github.com/Officerwasu/Officerwasu/blob/main/Images/i.png" alt="ISC2 Candidate Badge" width="150"/>
 </p>
 
-## My Tryhackme Stats
-
-<p align="center">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4449848" style='border:none;'></iframe>
-</p>
 ---
 
 ## Let's Get In Touch
