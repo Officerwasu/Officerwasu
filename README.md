@@ -6,10 +6,6 @@
 
 I'm a passionate **Penetration Tester** based in Delhi, India.
 
-* I’m currently getting a better grip at advanced penetration testing techniques and cloud security.
-* I’m looking for opportunities to apply my skills in real-world scenarios, like internships or collaborative projects.
-* I really love Malware development and redteaming.
-
 ## Technical Skills 
 
 Here's the technologies I work with:
