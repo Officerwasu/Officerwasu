@@ -44,6 +44,7 @@ Here's the technologies I work with:
   <img src="https://github.com/Officerwasu/Officerwasu/blob/main/Images/Ceh.png" alt="CEH Master Badge" width="150"/>
   <img src="https://github.com/Officerwasu/Officerwasu/blob/main/Images/googlecybersec.png" alt="Google Cybersecurity Badge" width="150"/>
   <img src="https://github.com/Officerwasu/Officerwasu/blob/main/Images/i.png" alt="ISC2 Candidate Badge" width="150"/>
+  <img src="![image](https://github.com/user-attachments/assets/4a814372-67f4-4d76-9417-27fef0b14905)" alt="Cisco Networking Badge" width="150"/>
 </p>
 
 ---
