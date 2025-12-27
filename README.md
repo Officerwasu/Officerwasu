@@ -30,13 +30,7 @@ Here's the technologies I work with:
 
 ---
 
-## My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Officerwasu&show_icons=true&theme=radical&rank_icon=github" alt="Vedant's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Officerwasu&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
 
 ## My Badges
 
