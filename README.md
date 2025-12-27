@@ -4,7 +4,7 @@
   <img src="https://github.com/Officerwasu/Officerwasu/blob/main/Image.jpg" alt="Banner" width="80%"/>
 </p>
 
-I'm a passionate **Penetration Tester** based in Delhi, India.
+I'm a passionate **Penetration Tester** based in Delhi, India. 
 
 ## Technical Skills 
 
