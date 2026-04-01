@@ -35,7 +35,7 @@ Here's the technologies I work with:
 ## My Badges
 
 <p align="center">
-  <img src="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=2O8O/tubSlfHIQQnfAT/JPxcsjAU+KRC85aUnaL6/ik=" alt="CEH Master Badge" width="150"/>
+  <img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEH_2E345519D3F7.png" alt="CEH Master Badge" width="150"/>
   <img src="https://github.com/Officerwasu/Officerwasu/blob/main/Images/googlecybersec.png" alt="Google Cybersecurity Badge" width="150"/>
   <img src="https://github.com/Officerwasu/Officerwasu/blob/main/Images/i.png" alt="ISC2 Candidate Badge" width="150"/>
   <img src="https://github.com/user-attachments/assets/4a814372-67f4-4d76-9417-27fef0b14905" alt="Cisco Networking Badge" width="150"/>
