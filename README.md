@@ -35,6 +35,8 @@ Here's the technologies I work with:
 ## My Badges
 
 <p align="center">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/192910582" alt="OSCP+" width="150"/>
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/192910613" alt="OSCP" width="150"/>
   <img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEH_2E345519D3F7.png" alt="CEH Master Badge" width="150"/>
   <img src="https://github.com/Officerwasu/Officerwasu/blob/main/Images/googlecybersec.png" alt="Google Cybersecurity Badge" width="150"/>
   <img src="https://github.com/Officerwasu/Officerwasu/blob/main/Images/i.png" alt="ISC2 Candidate Badge" width="150"/>
